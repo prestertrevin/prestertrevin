@@ -4,7 +4,7 @@ I'm Trevin, a full-stack engineer based in Tempe, Arizona.
 
 I love finding the best possible solutions and seeing their real world application.
 
-I am currently working on my own online portfolio!
+I am currently working on my own website portfolio!
 
 My main tech stack is C++, Java, HTML and CSS. 
 
