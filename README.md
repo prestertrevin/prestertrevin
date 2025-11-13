@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Trevin, a full-stack engineer based in Tempe, Arizona.
+
+I love finding the best possible solutions and seeing their real world application.
+
+I am currently working on my own online portfolio as well as a text editor.
+
+My main tech stack is C++, Java, HTML and CSS. 
+
+
 <!--
 **prestertrevin/prestertrevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
